@@ -1,0 +1,35 @@
+<funding-group>
+<award-group id="par-1" xlink:type="simple" >
+<funding-source xlink:type="simple" >Charles A King Trust, Bank of America</funding-source>
+<principal-award-recipient>
+<name name-style="western" >
+<surname>Blitzblau</surname>
+<given-names>Hannah G</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="par-2" xlink:type="simple" >
+<funding-source xlink:type="simple" >
+Alexander and Margaret Stewart Trust Cancer Pilot Grant
+</funding-source>
+<principal-award-recipient>
+<name name-style="western" >
+<surname>Hochwagen</surname>
+<given-names>Andreas</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<award-group id="par-3" xlink:type="simple" >
+<funding-source xlink:type="simple" >National Institutes of Health</funding-source>
+<award-id xlink:type="simple" >R01 GM088248</award-id>
+<principal-award-recipient>
+<name name-style="western" >
+<surname>Hochwagen</surname>
+<given-names>Andreas</given-names>
+</name>
+</principal-award-recipient>
+</award-group>
+<funding-statement xlink:type="simple">
+The funders had no role in study design, data collection and interpretation, or the decision to submit the work for publication.
+</funding-statement>
+</funding-group>
