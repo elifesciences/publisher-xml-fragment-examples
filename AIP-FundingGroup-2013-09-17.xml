@@ -1,0 +1,16 @@
+<funding-group>
+<award-group>
+<funding-source>
+  <named-content content-type="funder-name">U.S. Department of Energy</named-content>
+  <named-content content-type="funder-identifier">http://dx.doi.org/10.13039/100000015</named-content>
+</funding-source>
+<award-id award-type="contract">DE-FC26-07NT43098</award-id>
+</award-group>
+<award-group>
+<funding-source>
+  <named-content content-type="funder-name">National Science Foundation</named-content>
+  <named-content content-type="funder-identifier">http://dx.doi.org/10.13039/100000001</named-content>
+</funding-source>
+<award-id award-type="contract">CBET-0318999</award-id>
+</award-group>
+</funding-group>
