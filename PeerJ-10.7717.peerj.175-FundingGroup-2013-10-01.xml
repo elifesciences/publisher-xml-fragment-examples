@@ -1,0 +1,18 @@
+<funding-group>
+<award-group id="fund-1">
+<funding-source>DataONE</funding-source>
+<award-id>OCI-0830944</award-id>
+</award-group>
+<award-group id="fund-2">
+<funding-source>Dryad</funding-source>
+<award-id>DBI-0743720</award-id>
+</award-group>
+<award-group id="fund-3">
+<funding-source>
+Discovery grant to Michael Whitlock from the Natural Sciences and Engineering Research Council of Canada
+</funding-source>
+</award-group>
+<funding-statement>
+This study was funded by DataONE (OCI-0830944), Dryad (DBI-0743720), and a Discovery grant to Michael Whitlock from the Natural Sciences and Engineering Research Council of Canada. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+</funding-statement>
+</funding-group>
